@@ -1,7 +1,0 @@
-input.jar
-output.dll
-*.class
-native-src/classes/*
-!native-src/classes/.gitkeep
-.idea/
-.vscode/
